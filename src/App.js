@@ -8,7 +8,6 @@ import {
 import './App.css';
 import Profile from './Profile';
 import Login from './Login';
-import RegisterForm from './RegisterForm';
 
 function App() {
   return (
