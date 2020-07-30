@@ -28,6 +28,8 @@ const Login = () => {
   const componentClicked = () => {
     console.log( "Clicked!" )
   }
+  console.log(dataLoginGoogle);
+  console.log(dataLoginFacebook);
 
   return (
       <div className="wrapperLogin">

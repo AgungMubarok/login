@@ -26,7 +26,7 @@ const ProfilePage = () => {
             <h1>Profile</h1>
             <h3>Nama: {name}</h3>
             <h3>Email: {email}</h3>
-            <div><img src={image} alt="picture" width="30%" className="vdfs" /></div>
+            <div><img src={image} alt="apa" width="30%" className="vdfs" /></div>
           </div>
         </Jumbotron>
       </Container>
